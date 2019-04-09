@@ -7,3 +7,6 @@ build/
 bin/
 
 local.properties
+build.gradle
+gradlew.bat
+build.gradle
